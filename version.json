@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.30",
-  "download_url": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.30.apk",
-  "release_notes": "Reduced app size (~30MB), split ABI optimization, and fixed web custom wallpaper upload error!"
+  "latest_version": "1.0.31",
+  "download_url": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.31.apk",
+  "release_notes": "Subject-Wise Attendance Progress Graph, 100% Perfect Attendance Badges, Translucent Next Lecture Card, and Smart Daily Local Caching!"
 }
