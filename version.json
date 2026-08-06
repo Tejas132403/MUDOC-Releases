@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.29",
-  "download_url": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.29.apk",
-  "release_notes": "Fixed update package installer error, preserved login session across updates, and added LATER option in update prompt!"
+  "latest_version": "1.0.30",
+  "download_url": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.30.apk",
+  "release_notes": "Reduced app size (~30MB), split ABI optimization, and fixed web custom wallpaper upload error!"
 }
