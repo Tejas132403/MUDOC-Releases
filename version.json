@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.37",
-  "download_url": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.37.apk",
-  "release_notes": "Added new features and updated app performance."
+  "latest_version": "1.0.38",
+  "download_url": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.38.apk",
+  "release_notes": "Added silent update checks, update badge, and better error handling."
 }
