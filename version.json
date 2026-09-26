@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.0.41",
-    "download_url": "https://github.com/Tejas132403/MUDOC-Releases/raw/main/MUDOC_v1.0.41.apk",
-    "release_notes": "Added smooth animated dropdowns and smart Next Day schedule logic for EC2 Timetable."
+    "latest_version": "1.0.42",
+    "download_url": "https://github.com/Tejas132403/MUDOC-Releases/raw/main/MUDOC_v1.0.42.apk",
+    "release_notes": "VIP payment history tracking, Admin delete controls, Light theme PDF icons fix & stability improvements."
 }
