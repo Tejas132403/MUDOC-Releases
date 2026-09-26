@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.0.42",
-    "download_url": "https://github.com/Tejas132403/MUDOC-Releases/raw/main/MUDOC_v1.0.42.apk",
-    "release_notes": "VIP payment history tracking, Admin delete controls, Light theme PDF icons fix & stability improvements."
+    "latest_version": "1.0.43",
+    "download_url": "https://github.com/Tejas132403/MUDOC-Releases/raw/main/MUDOC_v1.0.43.apk",
+    "release_notes": "On-demand E-content fetch with instant local caching, faster load times and performance enhancements."
 }
