@@ -1,5 +1,6 @@
 {
-    "latest_version": "1.0.44",
-    "download_url": "https://github.com/Tejas132403/MUDOC-Releases/raw/main/MUDOC_v1.0.44.apk",
-    "release_notes": "Subject-wise attendance breakdown, 4 core themes with Custom Color Studio, smart Sunday battery sleep, and update data retention."
+  "latest_version": "1.0.45",
+  "download_url": "https://github.com/Tejas132403/MUDOC-Releases/raw/main/MUDOC_v1.0.45.apk",
+  "download_url_universal": "https://github.com/Tejas132403/MUDOC-Releases/raw/main/MUDOC_v1.0.45_v7a.apk",
+  "release_notes": "Fix invalid package error, robust download recovery, background download progress, and auto-install prompt."
 }
