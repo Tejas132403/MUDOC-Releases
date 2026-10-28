@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.45",
-  "download_url": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.45.apk",
-  "download_url_universal": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.45_v7a.apk",
-  "release_notes": "Fix invalid package error, robust download recovery, background download progress, and auto-install prompt."
+  "latest_version": "1.0.46",
+  "download_url": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.46.apk",
+  "download_url_universal": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.46_v7a.apk",
+  "release_notes": "Restored smooth liquid glass navbar, maintenance mode with account switching, background worker controls, and popup announcements."
 }
