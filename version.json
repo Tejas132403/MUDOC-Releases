@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.47",
-  "download_url": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.47.apk",
-  "download_url_universal": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.47_v7a.apk",
-  "release_notes": "Enhanced security, admin broadcast protection, production stability safeguards, and test account bypass."
+  "latest_version": "1.0.48",
+  "download_url": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.48.apk",
+  "download_url_universal": "https://raw.githubusercontent.com/Tejas132403/MUDOC-Releases/main/MUDOC_v1.0.48_v7a.apk",
+  "release_notes": "Instant logout with 0ms lag, dark mode update dialog fixes, timetable portal resilience, and daily active sync."
 }
